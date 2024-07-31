@@ -1,0 +1,4 @@
+You must move "ArchIve" into your "C:\" for it to work. If this is not done, the application will not run properly.
+
+Please note that this is a joke program and does not actually affect your computer or steal your data :p
+It does run in the background once complete, you can close the task in task manager. I have not figured out a way to fix this, however you can be assured that this program will not do anything malicious.
