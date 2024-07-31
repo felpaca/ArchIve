@@ -2,7 +2,7 @@ Joke application :)
 
 # I am not responsible if you get into any type of trouble for using this.
 **You can run this on your PC, or run it on your friend's PC to prank them. This application does not access any files other than the ones in the folder and does not collect information.**
-Something weird I have found out is that it runs in the background even after it finishes what it's meant to do. You can simply close it via Task Manager or restart your PC.
+Something weird I have found out is that it runs in the background even after it finishes. You can simply close it via Task Manager or restart your PC.
 
 You are not permitted to reupload this program as your own or claim it as your own. If you are using it commercially (YouTube, TikTok, etc.) you are required to credit 'felpaca' somewhere in the video.
 
