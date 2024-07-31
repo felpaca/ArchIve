@@ -1,4 +1,4 @@
-Joke application :) – You do not have to download the .gitattribute file. That was created by GitHub Desktop and is not meant to be in the program. Downloading the file will not affect the way the application runs.
+Joke application :) – You do not have to download the .gitattributes file. That was created by GitHub Desktop and is not meant to be in the program. Downloading the file will not affect the way the application runs.
 
 # I am not responsible if you get into any type of trouble for using this.
 **You can run this on your PC, or run it on your friend's PC to prank them. This application does not access any files other than the ones in the folder and does not collect information.**
